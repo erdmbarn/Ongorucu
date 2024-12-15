@@ -1,0 +1,119 @@
+Time resolution is 1 ps
+Branch info dump
+br_info[0] PC is 10370
+br_info[0] INSTRUCTION is 00079863
+br_info[0] TAKEN is 0
+br_info[0] TARGET PC is 00010374
+
+br_info[1] PC is 10394
+br_info[1] INSTRUCTION is fce7dae3
+br_info[1] TAKEN is 1
+br_info[1] TARGET PC is 00010368
+
+br_info[2] PC is 10370
+br_info[2] INSTRUCTION is 00079863
+br_info[2] TAKEN is 1
+br_info[2] TARGET PC is 00010380
+
+br_info[3] PC is 10394
+br_info[3] INSTRUCTION is fce7dae3
+br_info[3] TAKEN is 1
+br_info[3] TARGET PC is 00010368
+
+br_info[4] PC is 10370
+br_info[4] INSTRUCTION is 00079863
+br_info[4] TAKEN is 0
+br_info[4] TARGET PC is 00010374
+
+br_info[5] PC is 10394
+br_info[5] INSTRUCTION is fce7dae3
+br_info[5] TAKEN is 1
+br_info[5] TARGET PC is 00010368
+
+br_info[6] PC is 10370
+br_info[6] INSTRUCTION is 00079863
+br_info[6] TAKEN is 1
+br_info[6] TARGET PC is 00010380
+
+br_info[7] PC is 10394
+br_info[7] INSTRUCTION is fce7dae3
+br_info[7] TAKEN is 1
+br_info[7] TARGET PC is 00010368
+
+br_info[8] PC is 10370
+br_info[8] INSTRUCTION is 00079863
+br_info[8] TAKEN is 0
+br_info[8] TARGET PC is 00010374
+
+br_info[9] PC is 10394
+br_info[9] INSTRUCTION is fce7dae3
+br_info[9] TAKEN is 1
+br_info[9] TARGET PC is 00010368
+
+br_info[10] PC is 10370
+br_info[10] INSTRUCTION is 00079863
+br_info[10] TAKEN is 1
+br_info[10] TARGET PC is 00010380
+
+br_info[11] PC is 10394
+br_info[11] INSTRUCTION is fce7dae3
+br_info[11] TAKEN is 1
+br_info[11] TARGET PC is 00010368
+
+br_info[12] PC is 10370
+br_info[12] INSTRUCTION is 00079863
+br_info[12] TAKEN is 0
+br_info[12] TARGET PC is 00010374
+
+br_info[13] PC is 10394
+br_info[13] INSTRUCTION is fce7dae3
+br_info[13] TAKEN is 1
+br_info[13] TARGET PC is 00010368
+
+br_info[14] PC is 10370
+br_info[14] INSTRUCTION is 00079863
+br_info[14] TAKEN is 1
+br_info[14] TARGET PC is 00010380
+
+br_info[15] PC is 10394
+br_info[15] INSTRUCTION is fce7dae3
+br_info[15] TAKEN is 1
+br_info[15] TARGET PC is 00010368
+
+br_info[16] PC is 10370
+br_info[16] INSTRUCTION is 00079863
+br_info[16] TAKEN is 0
+br_info[16] TARGET PC is 00010374
+
+br_info[17] PC is 10394
+br_info[17] INSTRUCTION is fce7dae3
+br_info[17] TAKEN is 1
+br_info[17] TARGET PC is 00010368
+
+br_info[18] PC is 10370
+br_info[18] INSTRUCTION is 00079863
+br_info[18] TAKEN is 1
+br_info[18] TARGET PC is 00010380
+
+br_info[19] PC is 10394
+br_info[19] INSTRUCTION is fce7dae3
+br_info[19] TAKEN is 0
+br_info[19] TARGET PC is 00010398
+
+Starting simulation
+
+extendedImm is 00079863
+extendedImm is          16
+getir_ps is 00010370
+extendedImm is 00079863
+extendedImm is          16
+getir_ps is 00010370
+extendedImm is 00079863
+extendedImm is          16
+getir_ps is 00010370
+extendedImm is 00079863
+extendedImm is          16
+getir_ps is 00010370
+Simulation finished at 510000 ps
+Prediction accuracy is 10/20
+$finish called at time : 515 ns : File "C:/Users/erdmb/öngörücü2/öngörücü2.srcs/sim_1/new/ongoru_cevreleyici.v" Line 151

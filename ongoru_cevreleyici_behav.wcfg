@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="ongoru_cevreleyici_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="ongoru_cevreleyici" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="317.083 ns"></ZoomStartTime>
+      <ZoomEndTime time="584.584 ns"></ZoomEndTime>
+      <Cursor1Time time="540.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="276"></NameColumnWidth>
+      <ValueColumnWidth column_width="120"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="46" />
+   <wvobject fp_name="/ongoru_cevreleyici/br_info" type="array">
+      <obj_property name="ElementShortName">br_info[0:13][96:0]</obj_property>
+      <obj_property name="ObjectShortName">br_info[0:13][96:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/mispred_count" type="array">
+      <obj_property name="ElementShortName">mispred_count[13:0]</obj_property>
+      <obj_property name="ObjectShortName">mispred_count[13:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/read_en" type="logic">
+      <obj_property name="ElementShortName">read_en</obj_property>
+      <obj_property name="ObjectShortName">read_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/prog_ptr" type="array">
+      <obj_property name="ElementShortName">prog_ptr[3:0]</obj_property>
+      <obj_property name="ObjectShortName">prog_ptr[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/next_ptr" type="array">
+      <obj_property name="ElementShortName">next_ptr[3:0]</obj_property>
+      <obj_property name="ObjectShortName">next_ptr[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/pipe_emul" type="array">
+      <obj_property name="ElementShortName">pipe_emul[1:2][96:0]</obj_property>
+      <obj_property name="ObjectShortName">pipe_emul[1:2][96:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/pipe_preds" type="array">
+      <obj_property name="ElementShortName">pipe_preds[1:2][0:0]</obj_property>
+      <obj_property name="ObjectShortName">pipe_preds[1:2][0:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/preds_valid" type="array">
+      <obj_property name="ElementShortName">preds_valid[2:1]</obj_property>
+      <obj_property name="ObjectShortName">preds_valid[2:1]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/flush_en" type="logic">
+      <obj_property name="ElementShortName">flush_en</obj_property>
+      <obj_property name="ObjectShortName">flush_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/pc_mispred" type="logic">
+      <obj_property name="ElementShortName">pc_mispred</obj_property>
+      <obj_property name="ObjectShortName">pc_mispred</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/taken_mispred" type="logic">
+      <obj_property name="ElementShortName">taken_mispred</obj_property>
+      <obj_property name="ObjectShortName">taken_mispred</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/curr_br_info" type="array">
+      <obj_property name="ElementShortName">curr_br_info[96:0]</obj_property>
+      <obj_property name="ObjectShortName">curr_br_info[96:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/next_br_info" type="array">
+      <obj_property name="ElementShortName">next_br_info[96:0]</obj_property>
+      <obj_property name="ObjectShortName">next_br_info[96:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/curr_pc" type="array">
+      <obj_property name="ElementShortName">curr_pc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">curr_pc[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/next_pc" type="array">
+      <obj_property name="ElementShortName">next_pc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">next_pc[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/pc" type="array">
+      <obj_property name="ElementShortName">pc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pc[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/fetch_valid" type="logic">
+      <obj_property name="ElementShortName">fetch_valid</obj_property>
+      <obj_property name="ObjectShortName">fetch_valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/fetch_entry" type="array">
+      <obj_property name="ElementShortName">fetch_entry[96:0]</obj_property>
+      <obj_property name="ObjectShortName">fetch_entry[96:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/ex_valid" type="logic">
+      <obj_property name="ElementShortName">ex_valid</obj_property>
+      <obj_property name="ObjectShortName">ex_valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/bp_pred" type="logic">
+      <obj_property name="ElementShortName">bp_pred</obj_property>
+      <obj_property name="ObjectShortName">bp_pred</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/bp_target" type="array">
+      <obj_property name="ElementShortName">bp_target[31:0]</obj_property>
+      <obj_property name="ObjectShortName">bp_target[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/rstn" type="logic">
+      <obj_property name="ElementShortName">rstn</obj_property>
+      <obj_property name="ObjectShortName">rstn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/j" type="array">
+      <obj_property name="ElementShortName">j[31:0]</obj_property>
+      <obj_property name="ObjectShortName">j[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/i" type="array">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/bp/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/bp/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/bp/getir_ps" type="array">
+      <obj_property name="ElementShortName">getir_ps[31:0]</obj_property>
+      <obj_property name="ObjectShortName">getir_ps[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/bp/getir_buyruk" type="array">
+      <obj_property name="ElementShortName">getir_buyruk[31:0]</obj_property>
+      <obj_property name="ObjectShortName">getir_buyruk[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/bp/yurut_ps" type="array">
+      <obj_property name="ElementShortName">yurut_ps[31:0]</obj_property>
+      <obj_property name="ObjectShortName">yurut_ps[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/bp/yurut_buyruk" type="array">
+      <obj_property name="ElementShortName">yurut_buyruk[31:0]</obj_property>
+      <obj_property name="ObjectShortName">yurut_buyruk[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/bp/yurut_dallan" type="logic">
+      <obj_property name="ElementShortName">yurut_dallan</obj_property>
+      <obj_property name="ObjectShortName">yurut_dallan</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/bp/yurut_dallan_ps" type="array">
+      <obj_property name="ElementShortName">yurut_dallan_ps[31:0]</obj_property>
+      <obj_property name="ObjectShortName">yurut_dallan_ps[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/bp/yurut_gecerli" type="logic">
+      <obj_property name="ElementShortName">yurut_gecerli</obj_property>
+      <obj_property name="ObjectShortName">yurut_gecerli</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/bp/getir_gecerli" type="logic">
+      <obj_property name="ElementShortName">getir_gecerli</obj_property>
+      <obj_property name="ObjectShortName">getir_gecerli</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/bp/sonuc_dallan" type="logic">
+      <obj_property name="ElementShortName">sonuc_dallan</obj_property>
+      <obj_property name="ObjectShortName">sonuc_dallan</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/bp/sonuc_dallan_ps" type="array">
+      <obj_property name="ElementShortName">sonuc_dallan_ps[31:0]</obj_property>
+      <obj_property name="ObjectShortName">sonuc_dallan_ps[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/bp/GHR" type="array">
+      <obj_property name="ElementShortName">GHR[1:0]</obj_property>
+      <obj_property name="ObjectShortName">GHR[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/bp/PHT" type="array">
+      <obj_property name="ElementShortName">PHT[3:0][1:0]</obj_property>
+      <obj_property name="ObjectShortName">PHT[3:0][1:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/bp/imm" type="array">
+      <obj_property name="ElementShortName">imm[31:0]</obj_property>
+      <obj_property name="ObjectShortName">imm[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/bp/imm1" type="array">
+      <obj_property name="ElementShortName">imm1[12:0]</obj_property>
+      <obj_property name="ObjectShortName">imm1[12:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/bp/BUYRUK" type="array">
+      <obj_property name="ElementShortName">BUYRUK[31:0]</obj_property>
+      <obj_property name="ObjectShortName">BUYRUK[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/bp/i" type="array">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/bp/GHR_SIZE" type="array">
+      <obj_property name="ElementShortName">GHR_SIZE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">GHR_SIZE[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/bp/PHT_SIZE" type="array">
+      <obj_property name="ElementShortName">PHT_SIZE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PHT_SIZE[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ongoru_cevreleyici/bp/aaa" type="array">
+      <obj_property name="ElementShortName">aaa[1:0]</obj_property>
+      <obj_property name="ObjectShortName">aaa[1:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+</wave_config>
